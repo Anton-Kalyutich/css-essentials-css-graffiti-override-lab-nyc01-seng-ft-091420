@@ -1,1 +1,11 @@
-/* write your override styles here */
+#wall .tag-1 div{
+  display: none;
+}
+
+#wall #tag-2 div {
+  display: none;
+}
+
+#wall #tag-3 .slick wicked div  {
+  display: none;
+}

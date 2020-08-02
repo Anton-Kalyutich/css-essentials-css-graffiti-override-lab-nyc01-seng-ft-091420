@@ -9,3 +9,7 @@
 #wall #tag-3 .slick wicked div  {
   display: none;
 }
+
+#wall div .parent {
+  display: none;
+}
